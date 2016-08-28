@@ -2,14 +2,66 @@ Upload your project proposal here...
 Project 1
 
 Academic Administration Application
+Proposal:
+Administration Problems:
+1. Taking attendance in the class and re-entering them on to server may be time taking   and boring to do all those things. 
+2. Difficult to prepare timetable for classes.
+3. Difficult to calculate the grades accurately of all students for a semester.
+Solution:
+Why cannot we have an application to solve all these boring work stuff?
+Requirements:
+Web Frame Work, Database, Android Studios, and server
+Design:
+There will be different applications for three different users. 
+Users:
+1.Teacher  2.Student. 3.Admin
+
+Teacher is accessible to attendance and grading database of students  for entering and modifying .
+Student  is accessible to know his attendance and grade of his subjects and not accessible to modify it.
+3.Admin is accessible to course registration and timetable sheduling.
+
+ 
+
 
 Project 2
 
-Bank Help Application
+Bank Help Android Application
+Proposal:
+    Many people in both rural and urban areas do not how to approach a bank and get benefits from it. 'Bank Help ' will be focussing on it. It will help people to know about banks and make communication strong between bank and public.
+
+Benefits:
+ 1. Helps to choose to a best one among the banks in city or town for a particular type of loan.
+2. Displays type of schemes, benefits and interest rates etc., about all banks around chosen region.
+3. Help's to communicate freely and get benefits from banks.
+
+
+Requirements:
+Android Studios, Mobile and Server.
+
+
+
+Design: 
+A user of application is allowed to select the region. It will display the list of banks available there.
+If we select the bank it will give the list of functions happening or facilities available and instructions to get those facilities.
+If we choose a particular type of loan or benefit required in search it will give best among the search. 
+
+
+
 
 Project 3 
 
-Event Organisation portal
+Event Organisation Portal
+Proposal:
+People will be confused to select event planners or individual teams .Or it may be cost to have event planners. Event may be any kind EX: Marriage, Felicitation, etc. 
+Event Organisation will solve that problem
+Requirements:
+Web Frame Work, API, Database
+Design:
+Users will be provided to search for best Team in a category like DJ, Orchestra, grocery, costumes, preist and Decorators etc.
+Users will get a group of teams required for an event in specified budget of user asked in search bar.
+Live Streaming of event is provided.
 
 
-Documentation of three  projects are uploaded back
+
+
+#### I have uploaded documentations of three  projects in the Team Document folder.
