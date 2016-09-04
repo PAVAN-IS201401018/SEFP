@@ -1,0 +1,25 @@
+1.write any techniques to design high data reliability ?
+Ans:- On-line checks for data consistency, Audits , Emergency Audits
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2.Choose the transist data definition among the following?
+A. This data includes data about calls that have not yet reached the talking state, e.g. calls in the middle of dialing, and
+usually requires frequent updating
+B. This data, all of which is kept on a read/write store with appropriate back up on the read only store, consists of instructions
+for the signal processor and data necessary to control I/O actions.
+c. Both A and B.
+D.None of the above
+Ans:-A
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3.Find the Characteristics of ESS control program from the following?
+A.Generic program
+B.Escalation of emergency audits
+C.Memory protection
+D.All of the above
+E.None of the above
+Ans:- E
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4.What type of data is kept separate from the program and is frequently shared among many different programs.
+Ans:- Scratch data
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5.What  type of data gives the busy/idle status of all customers and trunks and details of all connections that are in the talking state.
+Ans:-Supervisory and per call data
